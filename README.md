@@ -1,5 +1,5 @@
 # open-can-db
-An open automotive CANbus database set to publically display CANbus database and message info for vehicles
+An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles
 
 **Currently Supporting:**
 - 2005-2009 Subaru Legacy
