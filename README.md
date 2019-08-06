@@ -18,3 +18,6 @@ An open automotive CANbus database set made to reduce public obscurity in the CA
 - 2013+ Scion FR-S
 -	2015+ Subaru Impreza WRX STi
 -	2002-2006 Mini Cooper (all)
+
+
+*Please note, these are not comprehensive manuals and are to be taken as test data. These data figures are to used at your own risk and can cause vehicle malfunction if used improperly
