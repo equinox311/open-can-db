@@ -1,4 +1,7 @@
 # open-can-db
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](GA2ATM7VC5LZL)
+
 An open automotive CANbus database set made to reduce public obscurity in the CAN architecture of vehicles
 
 **Currently Supporting:**
